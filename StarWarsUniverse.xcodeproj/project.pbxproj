@@ -11,6 +11,7 @@
 		9C7C8DA4293E57B0006C6987 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C7C8DA3293E57B0006C6987 /* ContentView.swift */; };
 		9C7C8DA6293E57B2006C6987 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C8DA5293E57B2006C6987 /* Assets.xcassets */; };
 		9C7C8DA9293E57B2006C6987 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C8DA8293E57B2006C6987 /* Preview Assets.xcassets */; };
+		9C7C8DB0293E5B87006C6987 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C7C8DAF293E5B87006C6987 /* Cell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9C7C8DA3293E57B0006C6987 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9C7C8DA5293E57B2006C6987 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C7C8DA8293E57B2006C6987 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9C7C8DAF293E5B87006C6987 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				9C7C8DA3293E57B0006C6987 /* ContentView.swift */,
 				9C7C8DA5293E57B2006C6987 /* Assets.xcassets */,
 				9C7C8DA7293E57B2006C6987 /* Preview Content */,
+				9C7C8DAF293E5B87006C6987 /* Cell.swift */,
 			);
 			path = StarWarsUniverse;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				9C7C8DA4293E57B0006C6987 /* ContentView.swift in Sources */,
 				9C7C8DA2293E57B0006C6987 /* StarWarsUniverseApp.swift in Sources */,
+				9C7C8DB0293E5B87006C6987 /* Cell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
